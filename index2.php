@@ -12,7 +12,7 @@
         line-height: 50px;
     }
 </style>
-    </head>
+</head>
 
 <body>
 
